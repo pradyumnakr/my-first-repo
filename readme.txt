@@ -1,4 +1,0 @@
-Welcome to My First Repo
-Learning git is going onwell
-It's cloudy outside today.
-I added this line in the update-readme branch
